@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Alireza Haeri</h1>
 <h3 align="center">A passionate Full-Stack developer from Iran</h3>
 
--   🔭 I’m currently working on **React admin**
+-   🔭 I’m currently working on **NextJs CMS**
 
--   💬 Ask me about **react, node**
+-   💬 Ask me about **ReactJs, NextJs, nodeJs, PHP**
 
 -   📫 How to reach me **seyedalhae@gmail.com**
 
